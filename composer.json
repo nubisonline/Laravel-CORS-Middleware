@@ -1,0 +1,16 @@
+{
+    "name": "nubisonline/laravelcorsmiddleware",
+    "description": "Cors middleware Laravel",
+    "authors": [
+        {
+            "name": "George Pittas",
+            "email": "sattip@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "psr-4": {
+       "App\\": "app/",
+       "Nubisonline\\LaravelCORSMiddleware\\": "packages/nubisonline/Laravel-CORS-Middleware/src"
+    }
+}
