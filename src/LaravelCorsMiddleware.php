@@ -1,5 +1,5 @@
 <?php
-namespace Nubisonline\LaravelCORSMiddleware;
+namespace Nubisonline\LaravelCorsMiddleware;
 use Closure;
 
 class CORS

@@ -11,6 +11,6 @@
     "require": {},
     "psr-4": {
        "App\\": "app/",
-       "Nubisonline\\LaravelCORSMiddleware\\": "packages/nubisonline/Laravel-CORS-Middleware/src"
+       "Nubisonline\\LaravelCorsMiddleware\\": "packages/nubisonline/laravel-cors-middleware/src"
     }
 }
